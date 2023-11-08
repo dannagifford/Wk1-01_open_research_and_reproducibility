@@ -37,7 +37,7 @@ First, watch the following video which describes the history of the replication 
 
 ## Slides
 
-<center>[![Link to Open Research slides](../images/cw20.png){width="75%"}](../slides/introduction_to_open_research.odp)</center>
+<center>[![Link to Open Research slides](../images/cw20.png){width="75%"}](../slides/introduction_to_open_research.pdf)</center>
 
   
 
@@ -77,7 +77,7 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 ## Slides
 
-<center>[![Link to how to do open research slides](../images/how_to_do.png){width="75%"}](../slides/adopting_open_practices.odp)</center>
+<center>[![Link to how to do open research slides](../images/how_to_do.png){width="75%"}](../slides/adopting_open_practices.pdf)</center>
 
   
 
